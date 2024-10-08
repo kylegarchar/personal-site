@@ -1,0 +1,52 @@
+
+
+h2 {
+        outline: solid;
+        outline-width: .1em;
+
+}
+
+h3 {
+        outline: solid;
+        outline-width: .1em;
+
+}
+
+p {
+        outline: solid;
+        outline-width: .1em;
+
+}
+
+body {
+        font-size: 1.2em
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2C4961;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  align: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #BFD1E0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #708BA1;
+}
+
